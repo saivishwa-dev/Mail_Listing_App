@@ -1,0 +1,2 @@
+b76f30b929ffbae19e66a56b9f37d59b-us21  -> Mail Chimp API key 
+ 5ad9987946 -> Mail Chimp list id 
