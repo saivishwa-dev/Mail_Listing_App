@@ -1,3 +1,4 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css");
 html,
 body {
   height: 100%;
@@ -32,7 +33,14 @@ body {
 h1{
     text-align:center;  
     font-weight: 600;
+    cursor: default;
 }
+p{
+  cursor:default;
+  text-align:center;
+  margin-left: 1.5rem;
+}
+
 .main{
   font-size: 1.3rem;
   text-align: center;
@@ -49,4 +57,21 @@ h1{
 
 .text-body-secondary{
     text-align:center;
+}
+
+.icon{
+  text-align:center;
+  font-size: 3rem;
+}
+
+.theme{
+  background:none;
+  outline:none;
+  border:none;
+}
+
+.theme{
+  font-size: 1.5rem;
+  margin-left:52rem;
+  margin-top: 7rem;
 }
